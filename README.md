@@ -71,7 +71,7 @@ THEN I am presented with empty fields to enter a new note title and the note’s
 ## Mock-Up
 ***
 The following images show the web application’s appearance and functionality:
-![Untitled_ Mar 13, 2022 9_29 AM (1)](https://user-images.githubusercontent.com/78709516/158062057-f5086e1b-a942-4076-b8c4-4add306f7021.gif)
+![Untitled_ Mar 13, 2022 9_29 AM (2)](https://user-images.githubusercontent.com/78709516/158062143-e5412b0b-4d6d-44c2-8fe9-006a5757cc3b.gif)
 
 Existing notes are listed in the left-hand column with empty fields on the right-hand side for the new note’s title and text.
 ![Screenshot (271)](https://user-images.githubusercontent.com/78709516/158062074-9cdfc623-5469-4a34-bd18-a0b1192cec73.png)
