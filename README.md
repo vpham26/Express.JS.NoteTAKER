@@ -3,6 +3,7 @@
 
 ## Table of Contents
 ***
+- [Built](#built-with)
 - [Deployed Links](#deplyed-links)
 - [Your Task](#your-task)
 - [User Story](#user-story)
@@ -10,11 +11,20 @@
 - [Getting Started](#getting-started)
 - [Grading Requirements](#grading-requirements)
 
+## Built With
+***
+* JavaScript
+* HTML
+* CSS
+* Express.js
+* npm uuid package
+
 ## Deployed Links
 ***
-Heroku - https://drive.google.com/file/d/1-YhgRO4WWs7ej79rnlzZfWkx6A0YJdpV/view
+Heroku - https://dashboard.heroku.com/apps/express-js-notetaker42/deploy/github
 
 GitHub - https://vpham26.github.io/Express.JS.NoteTAKER/
+
 ## Your Task
 ***
 Your assignment is to modify starter code to create an application called Note Taker that can be used to write and save notes. This application will use an Express.js back end and will save and retrieve note data from a JSON file.
